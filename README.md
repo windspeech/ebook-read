@@ -1,6 +1,8 @@
 # ebook-read
 
 > 基于epubjs+vue Web阅读器
+> 已实现功能
+> 标题栏显示已经实现,菜单栏的字号、主题、进度、目录已实现
 
 ## Build Setup
 
